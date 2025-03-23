@@ -1,0 +1,7 @@
+eyelid_image/
+inferences/
+instanceenv/
+models/
+samples/
+Segmentation_test_images/
+result.png
