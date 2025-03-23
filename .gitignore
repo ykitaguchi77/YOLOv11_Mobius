@@ -3,5 +3,6 @@ inferences/
 instanceenv/
 models/
 samples/
+inferences/
 Segmentation_test_images/
 result.png
