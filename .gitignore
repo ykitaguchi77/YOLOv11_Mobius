@@ -6,3 +6,13 @@ samples/
 inferences/
 Segmentation_test_images/
 result.png
+yolo11n.pt
+yolo11x-seg.pt
+data/
+runs/
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+*.gif
