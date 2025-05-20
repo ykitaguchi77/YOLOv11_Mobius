@@ -16,3 +16,4 @@ runs/
 *.bmp
 *.tiff
 *.gif
+yolo11l-seg.pt
